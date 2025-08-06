@@ -1,0 +1,14 @@
+# <type>: <subject>
+# Empty line
+# <body> (optional)
+# Empty line
+# <footer> (optional)
+
+# Types: feat | fix | docs | style | refactor | test | chore
+# Example:
+# feat: add login feature
+#
+# - added login form with validation
+# - connected to backend API
+#
+# BREAKING CHANGE: login API now requires auth header
